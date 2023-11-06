@@ -21,7 +21,7 @@ function Navbar() {
                 Document
               </li>
             </Link>
-            <Link href="/">
+            <Link href="https://github.com/fahid-liberatelabs/dynamic_image_gllry">
               <li className="border-2 p-2 rounded-md">Github Repo</li>
             </Link>
           </ul>
